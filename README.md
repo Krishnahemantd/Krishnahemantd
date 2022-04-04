@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishnahemant
-- 👀 I’m interested in Exploratory Data Analysis, Machine Learning and Data Visualiszation
+- 👀 I’m interested in Exploratory Data Analysis, Machine Learning and Data Visualization
 - 🌱 I’m currently doing my masters in Data Analytics from Northeastern University, Boston
 
 
