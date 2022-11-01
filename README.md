@@ -3,7 +3,7 @@
 
 ### [Here's my **Tableau profile**](https://public.tableau.com/app/profile/krishna.hemant)
 
-- When I am not analyzing data I'm a photographer and usually spend my time outdoors exploring
+- Feel free to checkout the latest repositories I have worked on below! When I am not analyzing data I'm a photographer and usually spend my time outdoors exploring
 
 
 <!---
