@@ -1,9 +1,9 @@
 # Hi, Krishna Hemant here!
-- I’m interested in Exploratory Data Analysis, Machine Learning and Data Visualization. I’m currently doing my masters in Data Analytics from Northeastern University, Boston. Finding interesting patterns in data always using different models always excites me, it never gets old! I use my creative side to build interactive visualizations on Tableau. 
+-  I’m currently doing my masters in Data Analytics from Northeastern University, Boston. Finding interesting patterns in data always using different models always excites me, it never gets old! I use my creative side to build interactive visualizations on Tableau. 
 
 ### [Here's my **Tableau profile**](https://public.tableau.com/app/profile/krishna.hemant)
 
-- Feel free to checkout the my latest repositories below! When I am not analyzing data I'm a photographer and usually spend my time outdoors exploring
+- Feel free to checkout my repositories and collaborations below! When I am not analyzing data I'm a photographer and usually spend my time outdoors exploring
 
 
 <!---
